@@ -12,4 +12,4 @@
 
 ### Student Developer: About Me:
 I am a full-time Student, building towards becoming a developer 
-<img src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width = "30" alt = "duck gif">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFlNnJ6NjU0eGM3Ymk5anlmZTNvbjl1dTk4eXg5b2R3NmszcGhlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width = "30" alt = "duck gif">
