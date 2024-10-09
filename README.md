@@ -1,12 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A student searching for his specialism</h3>
+<h3 align="center"> I am a Computer Science student and currently searching for my specialism</h3>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kingyleon/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
-  </a>
   <a href="https://github.com/kingyleon">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
   </a>
