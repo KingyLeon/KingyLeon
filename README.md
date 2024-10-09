@@ -19,7 +19,6 @@
 - 🔭 I’m currently working on **building out my portfolio**
 - 🌱 I’m currently learning **Django**
 - 🕮 I’m looking to **Expand my experiences and skillset**
-- 💬 Ask me about **[Your areas of expertise or topics you enjoy discussing]**
 - 📫 How to reach me **leonphilipsking@gmail.com**
 - ⚡ Fun fact **I am a Sheffield Wednesday fan 🦉**
 
