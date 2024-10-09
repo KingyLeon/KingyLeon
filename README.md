@@ -1,13 +1,8 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Leon</h1>
+<h1 align="center">Hey 👋, I'm Leon</h1>
 <h3 align="center"> I am a Computer Science student and currently searching for my specialism</h3>
 
-  <a href="https://github.com/kingyleon">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
-  </a>
-</p>
-
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kingyleon&label=Profile%20views&color=0e75b6&style=flat" alt="kingyleon" /> </p>  
 
 ### About Me 🧑‍💻
 
