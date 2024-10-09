@@ -71,10 +71,10 @@
 ### Connect with Me 📫
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kingyleon/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kingyleon/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:leonphilipsking@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="mailto:leonphilipsking@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
 </p>
