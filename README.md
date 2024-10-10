@@ -55,6 +55,7 @@
 
 - [FlickFinder](https://github.com/kingyleon/COM1028-Software-Engineering-FlickFinder) - RESTful API for IMDB Movie database written in Java using the Javelin framework, implementing testing using Junit and Mockito.
 - [OS Coursework](https://github.com/KingyLeon/Operating-Systems) - Series of tasks involving memory management challenges, and manual application of linux commands on a CLI written in Java.
+- [Project Management Tool](https://github.com/KingyLeon/ProjectManagementTool) WIP - A project management tool similiar to Jira built whilst learning Django
 
 ---
 
