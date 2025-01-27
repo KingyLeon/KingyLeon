@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hey 👋, I'm Leon</h1>
-<h3 align="center"> I am a Computer Science student and currently searching for my specialism</h3>
+<h3 align="center"> A Computer Science Student </h3>
 
 ### About Me 🧑‍💻
 
