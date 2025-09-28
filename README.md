@@ -4,7 +4,7 @@
 
 ### About Me 🧑‍💻
 
-- 🔭 I’m currently working on at **Red Bull Racing**
+- 🔭 I’m currently working on SharePoint, C# applications and PowerBI at **Red Bull Racing**
 - 🕮 I’m looking to **Expand my experiences and skillset**
 - 📫 How to reach me **leonphilipsking@gmail.com**
 - ⚡ Fun fact **I am a Sheffield Wednesday fan 🦉**
@@ -58,4 +58,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
 </p>
+
 
