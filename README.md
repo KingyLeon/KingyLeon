@@ -4,8 +4,7 @@
 
 ### About Me 🧑‍💻
 
-- 🔭 I’m currently working on **building out my portfolio**
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently working on at **Red Bull Racing**
 - 🕮 I’m looking to **Expand my experiences and skillset**
 - 📫 How to reach me **leonphilipsking@gmail.com**
 - ⚡ Fun fact **I am a Sheffield Wednesday fan 🦉**
@@ -49,14 +48,6 @@
 
 ---
 
-### Projects 🔥
-
-- [FlickFinder](https://github.com/kingyleon/COM1028-Software-Engineering-FlickFinder) - RESTful API for IMDB Movie database written in Java using the Javelin framework, implementing testing using Junit and Mockito.
-- [OS Coursework](https://github.com/KingyLeon/Operating-Systems) - Series of tasks involving memory management challenges, and manual application of linux commands on a CLI written in Java.
-- [Project Management Tool](https://github.com/KingyLeon/ProjectManagementTool) WIP - A project management tool similiar to Jira built whilst learning Django
-
----
-
 ### Connect with Me 📫
 
 <p align="center">
@@ -67,3 +58,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
 </p>
+
